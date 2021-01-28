@@ -1,0 +1,2 @@
+# final_project_datascience_bootcamp
+This repository includes files related to my final datascience bootcamp project. The project issue is to create and train a model using a historical grid and weather data that would be able to predict maximum power generation from PV isntallation. The data used in this project comes from “Validation of Photovoltaic (PV) Connection Assessment Tool” project carried out by UK Power Networks. More information can be found here: 
